@@ -1,1 +1,1 @@
-The Jupyter Notebook Practice for Coursera
+Hello!, welcome to Danny's Data Science Hub
