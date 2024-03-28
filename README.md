@@ -1,1 +1,1 @@
-Hello!, welcome to Danny's Data Science Hub
+Hello! Welcome to Danny's Data Science Hub
